@@ -1,0 +1,11 @@
+id,name,age,active,email
+1,Alice Silva,28,true,alice@email.com
+2,Bob Santos,17,true,bob@email.com
+3,Carol Oliveira,34,false,carol@email.com
+4,David Lima,25,true,david@email.com
+5,Eva Costa,16,false,eva@email.com
+6,Felipe Souza,42,true,felipe@email.com
+7,Gisele Ferreira,30,true,gisele@email.com
+8,Hugo Pereira,19,false,hugo@email.com
+9,Isabela Rodrigues,27,true,isabela@email.com
+10,João Martins,15,true,joao@email.com
